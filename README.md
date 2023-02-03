@@ -1,5 +1,5 @@
 End to end project from creating, training, testing, evaluating and deploying a random regression model
 Include:
-- Notebook of python code
+- Jupyter Notebook of python code
 - Application build with spider
-- web interface
+- Deployment with a Web interface 
